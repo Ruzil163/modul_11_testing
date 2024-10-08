@@ -1,0 +1,27 @@
+{
+  "name": "learn-repository",
+  "version": "1.0.0",
+  "description": "Module 11 testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruzil163/modul_11_testing.git"
+  },
+  "keywords": [
+    "npm",
+    "example",
+    "basic."
+  ],
+  "author": "Ruzil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruzil163/modul_11_testing/issues"
+  },
+  "homepage": "https://github.com/Ruzil163/modul_11_testing#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
